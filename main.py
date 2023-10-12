@@ -1,7 +1,7 @@
 import discord
 
 client = discord.Client()
-token = "MTE1OTg0NDEwNzAzMjczNTc0NQ.GmtM2x.2JCzoW9bwcnbptbMydzsV5clInQvMWQo1azg6k"  # Токен
+# token = "MTE1OTg0NDEwNzAzMjczNTc0NQ.GmtM2x.2JCzoW9bwcnbptbMydzsV5clInQvMWQo1azg6k"  # Токен
 
 
 @client.event
